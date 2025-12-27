@@ -169,7 +169,7 @@
             ctx.scale(0.75, 0.75);
             ctx.font = "14px 'Dancing Script', cursive"; // 字号肿么没有用? (ˉ(∞)ˉ)
             ctx.fillText("Click Me:) ", 30, -5);
-            ctx.fillText("A note for Dharshini !", 28, 10);
+            ctx.fillText("A note for shini !", 28, 10);
             ctx.restore();
         },
         clear: function() {
@@ -702,7 +702,7 @@
             ctx.scale(0.75, 0.75);
             ctx.font = "14px 'Dancing Script', cursive"; // 字号肿么没有用? (ˉ(∞)ˉ)
             ctx.fillText("Click Me:) ", 30, -5);
-            ctx.fillText("A note for Dharshini !", 28, 10);
+            ctx.fillText("A note for Warisha !", 28, 10);
             ctx.restore();
         },
         clear: function() {
@@ -1062,5 +1062,6 @@
     window.bezier = bezier;
     window.Point = Point;
     window.Tree = Tree;
+
 
 })(window);
